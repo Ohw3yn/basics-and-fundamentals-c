@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    const int maxSize = 10;
+    const int maxSize = 12;
     int arr1[maxSize];
     int arr2[maxSize];
     int arrMerged[maxSize + maxSize];
